@@ -1,0 +1,3 @@
+
+{"chainId":11155111,"type":"DEPLOYMENT_INITIALIZE"}
+{"artifactId":"Uniswap#Uniswap","constructorArgs":[100,10000,1.6264587680586241e+47,4.80392287588236e+47],"contractName":"Uniswap","dependencies":[],"from":"0xd659ce50ef55a237fc5ff92318873284baa774d7","futureId":"Uniswap#Uniswap","futureType":"NAMED_ARTIFACT_CONTRACT_DEPLOYMENT","libraries":{},"strategy":"basic","strategyConfig":{},"type":"DEPLOYMENT_EXECUTION_STATE_INITIALIZE","value":{"_kind":"bigint","value":"0"}}
